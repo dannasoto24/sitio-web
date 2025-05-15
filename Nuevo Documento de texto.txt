@@ -1,0 +1,15 @@
+html>
+<meta charset="utf-8">
+
+        <head>
+                <title>Mi Web</title>
+                <font face="Arial">
+                <img src="1747339583979.jpg" height="70%" width="100%"/> 
+                <h1 style="color:#2F4156;" align="center">Crhistian Soto</h1>
+                        <br/><br/>
+               <img src="1747339583995.jpg"align="="35%" width="15%"/>
+        </head>
+
+        <body style="background-color:#D49BA7;">
+                 <h2 style="color:#2F4156;" align="center">Sobre Mí</h2>
+       
